@@ -1,0 +1,9 @@
+STUDENT MANAGEMENT SYSTEM - VALIDATION REPORT
+
+PASS: Student objects can be created.
+PASS: Student inherits from abstract Person.
+PASS: CSVStudentStorage implements abstract StudentStorage.
+PASS: CSV records save and reload correctly.
+PASS: Average marks calculation is correct (Rahul: 84.33).
+PASS: Invalid marks outside 0-100 are rejected.
+PASS: Encapsulated marks are returned as a copy.
