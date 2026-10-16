@@ -1,1 +1,4 @@
-
+student_id,name,class_name,marks
+S101,Rahul,10,85;90;78
+S102,Priya,9,92;88;95
+S103,Amit,10,76;81;84
